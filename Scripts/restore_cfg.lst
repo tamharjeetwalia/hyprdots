@@ -24,3 +24,4 @@ Y|Y|${HOME}/.config|dolphinrc kdeglobals|dolphin
 Y|Y|${HOME}/.local/share|dolphin|dolphin
 Y|Y|${HOME}/.local/share/kxmlgui5|dolphin|dolphin
 Y|Y|${HOME}/.config|yazi|yazi
+Y|Y|${HOME}/.config|btop|btop
