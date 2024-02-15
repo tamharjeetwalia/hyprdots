@@ -33,3 +33,7 @@ function ya
 	end
 	rm -f -- "$tmp"
 end
+
+function fish_greeting
+	neofetch
+end
